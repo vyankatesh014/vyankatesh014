@@ -1,85 +1,73 @@
-<!-- Banner / Header -->
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00C4FF;">Vyankatesh Bairagi</span>  
-</h1>
-<h3 align="center">🚀 MERN Stack Developer | Software Engineer Aspirant | Problem Solver 🚀</h3>
+<h1 align="center">Hi 👋, I'm Vyankatesh Bairagi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Final+Year+Computer+Engineering+Student+%F0%9F%8E%93;8.48+CGPA+%7C+Active+Learner+%7C+50%2B+LeetCode+Problems;Open+to+Software+Engineer+Roles+%F0%9F%9A%80;Turning+Ideas+Into+Impactful+Solutions+%F0%9F%92%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=36BCF7&width=600&lines=Final+Year+Computer+Engineering+Student;Full+Stack+Developer+(MERN);DSA+Learner+%7C+Problem+Solver;Open+to+Software+Engineer+Opportunities;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me  
 
-- 🎓 Final-year **Computer Engineering Student** at **Savitribai Phule Pune University (SITRC)**  
-- 📊 Current **CGPA: 8.48**  
-- 🌱 Currently learning **MERN Stack** & improving **DSA** (solved **50+ problems** on LeetCode)  
-- 💡 Passionate about building **scalable full-stack applications**  
-- 🚀 Seeking **Software Engineer roles** in top companies  
-- 🤝 Open to collaborations on **exciting projects**  
-- 📧 Reach me at: **[vyankateshbairagi@outlook.com](mailto:vyankateshbairagi@outlook.com)**  
+- 🎓 Final Year **Computer Engineering Student** at **Savitribai Phule Pune University** (CGPA: **8.48**)  
+- 💻 **Full Stack Developer (MERN)** | Passionate about building scalable & real-world solutions  
+- 🔥 Strong knowledge of **React.js, Node.js, Express.js, MongoDB, Java**  
+- 🧩 Solved **50+ DSA Questions** on LeetCode & continuously improving problem-solving skills  
+- 🌱 Currently learning **Advanced DSA + Full Stack Projects**  
+- 💼 Actively seeking **Software Engineer / Full Stack Developer** roles  
+- ⚡ Fun fact: I believe in **"Code. Debug. Learn. Repeat."**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,cpp,python,git,github,mysql,bootstrap,tailwind,vite,linux,php,django&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,js,cpp,c,python,html,css,bootstrap,tailwind,vite,git,github,mysql,linux,php,django,wordpress" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyankatesh-Bairagi&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyankatesh-Bairagi&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vyankatesh-Bairagi&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyankatesh-Bairagi&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vyankatesh-Bairagi&show_icons=true&theme=react&hide_border=true" alt="stats" />
 </p>
 
----
-
-## 🏆 Achievements  
-
-- 🚀 Built **MERN-based Projects** (E-commerce, Portfolio, Grocery App, etc.)  
-- 🌟 Solved **50+ LeetCode Problems** (DSA in progress)  
-- 📌 Active contributor & **open-source enthusiast**  
-- 🎓 Strong academic foundation (**8.48 CGPA**)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyankatesh-Bairagi&layout=compact&theme=react&hide_border=true" alt="languages" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vyankatesh-bairagi-656164287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vyankatesh-Bairagi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:vyankateshbairagi@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
+  <a href="mailto:vyankateshbairagi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Vyankatesh-Bairagi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/vyankatesh-bairagi-656164287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/your_insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎨 Fun Touch  
+## 🚀 Fun Animations  
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_2.gif" width="400px" alt="Coding animation" />
 </p>
 
 ---
 
-⭐ *“Code. Debug. Repeat. Keep Growing Every Day 🚀”*  
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/Vyankatesh-Bairagi/Vyankatesh-Bairagi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+✨ _“Turning ideas into clean, scalable, and impactful solutions.”_ ✨  
