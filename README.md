@@ -1,26 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vyankatesh Bairagi
-==========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Vyankatesh Bairagi</h1>
+<h3 align="center">A Passionate Full Stack Developer (MERN) 🚀</h3>
 
-MERN Stack Developer | Learning DSA | Open to Opportunities
------------------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Full+Stack+Web+Developer;Open+Source+Contributor;Cyber+Security+Learner+%F0%9F%94%90" alt="Typing SVG" />
+</p>
 
-Hi! I'm Vyankatesh Bairagi, a final-year Computer Engineering student at SITRC, passionate about full stack web development and building real-world solutions using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+---
 
-I'm currently working on MERN-based projects, improving my Data Structures and Algorithms (DSA) skills, and preparing for software development roles. I enjoy turning ideas into clean, scalable web applications and always strive to learn and grow as a developer.
+## 🙋‍♂️ About Me
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [vyankateshbairagi@outlook.com](mailto:vyankateshbairagi@outlook.com)
-* 🧠  I'm learning DSA & Full Stack Development
-* 🤝  I'm open to collaborating on New Projects
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 I’m currently learning **Advanced React, Backend & DSA**
+- 👨‍💻 All of my projects are available at **https://vyankateshbairagi.netlify.app/**
+- 📚 I’m actively improving **problem-solving & system design**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, MongoDB**
+- 📫 How to reach me: **vyankateshbairagi.dev@gmail.com**
+- ⚡ Fun fact: *I love building real-world problem solving apps & learning new tech everyday 🚀*
 
-### Skills
+---
 
+## 🎓 Education
+
+**Sandip Institute of Technology and Research Centre, Nashik**  
+_Bachelor of Engineering (Computer Engineering)_  
+📅 **2023 – 2026** | 📍 Nashik, Maharashtra  
+🎯 CGPA: **8.48 (till last semester)**  
+🧠 **Relevant Coursework**: DSA, DBMS, Operating Systems, AI, Computer Networks
+
+
+**Amrutvahini Polytechnic, Sangamner**  
+_Diploma (Computer Engineering)_  
+📅 **2020 – 2023** | 📍 Sangamner, Maharashtra  
+🎯 CGPA: **84.80**  
+🧠 **Relevant Coursework**: DSA, DBMS, Operating Systems, Computer Networks,OOP 
+
+---
+
+## 💼 Experience
+
+**Web Development Internship**  
+📅 **Jan 2023 – Apr 2023**  
+- Built real-time web applications  
+- Worked on responsive UI and deployment  
+- Learned Git & collaborative development
+
+**MERN Stack Development Projects**  
+_Self-driven & College Projects_  
+- Built multiple full-stack projects including a grocery app & gym management site  
+- Integrated authentication, APIs & MongoDB database
+
+---
+
+## 🚀 Languages and Tools:
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" title="Illustrator"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,python,cpp,vscode,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vyankatesh014&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vyankatesh014&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyankatesh014&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Vyankatesh-Bairagi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/vyankatesh-bairagi-656164287" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+## 📱 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vyankateshbairagi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" /></a>
+  <a href="mailto:vyankateshbairagi.dev@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" /></a>
+  <a href="https://github.com/vyankatesh014"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🔥 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## ✍️ Quote of the Day
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+### ❤️ Support
+
+If you like my work, consider ⭐️ this repo or share feedback 😊
