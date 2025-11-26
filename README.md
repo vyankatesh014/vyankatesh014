@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer (MERN) 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Full+Stack+Web+Developer;Open+Source+Contributor;Cyber+Security+Learner+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Full+Stack+Web+Developer;Open+Source+Contributor%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 ---
