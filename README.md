@@ -31,7 +31,7 @@ _Bachelor of Engineering (Computer Engineering)_
 **Amrutvahini Polytechnic, Sangamner**  
 _Diploma (Computer Engineering)_  
 📅 **2020 – 2023** | 📍 Sangamner, Maharashtra  
-🎯 CGPA: **84.80**  
+🎯 Per % : **84.80**  
 🧠 **Relevant Coursework**: DSA, DBMS, Operating Systems, Computer Networks,OOP 
 
 ---
