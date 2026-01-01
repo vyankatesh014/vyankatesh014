@@ -62,28 +62,11 @@ _Self-driven & College Projects_
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyankatesh014&show_icons=true&theme=radical" alt="GitHub Stats" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vyankatesh014&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyankatesh014&layout=compact&theme=radical" alt="Top Languages" />
+
 </p>
 
-
----
-
-## 📱 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vyankateshbairagi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" /></a>
-  <a href="mailto:vyankateshbairagi.dev@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" /></a>
-  <a href="https://github.com/vyankatesh014"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" /></a>
-</p>
-
----
-
-## 🔥 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
