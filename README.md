@@ -34,15 +34,6 @@ Actively improving expertise in **advanced React patterns, backend optimization,
 
 ---
 
-## Experience
-
-### Web Development Intern  
-**Jan 2023 – Apr 2023**
-
-- Developed responsive and user-centric web applications  
-- Collaborated using Git and GitHub in a team-based environment  
-- Implemented deployment workflows and UI optimizations  
-
 ### Full Stack MERN Projects  
 **Academic & Self-Driven**
 
@@ -55,8 +46,7 @@ Actively improving expertise in **advanced React patterns, backend optimization,
 
 ## Key Projects
 
-- **Grocery Management System** – Full-stack app with authentication, product management, and cart functionality  
-- **Gym Management Platform** – Member tracking, admin dashboard, and database integration  
+- **Grocery Management System** – Full-stack app with authentication, product management, and cart functionality   
 - **Multiple MERN Mini-Projects** – CRUD apps, API integrations, and UI-focused projects  
 
 > Full project details available at: **https://vyankateshbairagi.netlify.app**
@@ -92,7 +82,6 @@ DSA, DBMS, OOP, Operating Systems, Computer Networks
 ---
 
 ## GitHub Statistics
- align="center"
 ![](https://github-readme-stats.vercel.app/api?username=vyankatesh014&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vyankatesh014&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyankatesh014&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
