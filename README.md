@@ -1,81 +1,115 @@
 <h1 align="center">Hi 👋, I'm Vyankatesh Bairagi</h1>
-<h3 align="center">A Passionate Full Stack Developer (MERN) 🚀</h3>
+<h3 align="center">Full Stack Software Engineer (MERN)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Full+Stack+Web+Developer;Open+Source+Contributor%F0%9F%94%90" alt="Typing SVG" />
+  <a href="https://vyankateshbairagi.netlify.app" target="_blank">Portfolio</a> •
+  <a href="mailto:vyankateshbairagi.dev@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vyankateshbairagi/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/vyankatesh014" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+System+Thinking" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## Professional Summary
 
-- 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m currently learning **Advanced React, Backend & DSA**
-- 👨‍💻 All of my projects are available at **https://vyankateshbairagi.netlify.app/**
-- 📚 I’m actively improving **problem-solving & system design**
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, MongoDB**
-- 📫 How to reach me: **vyankateshbairagi.dev@gmail.com**
-- ⚡ Fun fact: *I love building real-world problem solving apps & learning new tech everyday 🚀*
+Full Stack Developer specializing in the **MERN stack**, with strong fundamentals in **Data Structures, backend architecture, and system-oriented problem solving**.  
+Experienced in building **scalable, production-ready web applications**, implementing secure authentication, RESTful APIs, and responsive user interfaces.  
+Actively improving expertise in **advanced React patterns, backend optimization, and software design principles**.
 
 ---
 
-## 🎓 Education
+## Core Competencies
 
-**Sandip Institute of Technology and Research Centre, Nashik**  
-_Bachelor of Engineering (Computer Engineering)_  
-📅 **2023 – 2026** | 📍 Nashik, Maharashtra  
-🎯 CGPA: **8.48 (till last semester)**  
-🧠 **Relevant Coursework**: DSA, DBMS, Operating Systems, AI, Computer Networks
+- **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend**: Node.js, Express.js, REST APIs, Authentication & Authorization  
+- **Database**: MongoDB, MySQL, Schema Design  
+- **Programming**: JavaScript, C++, Python, Java 
+- **Concepts**: Data Structures & Algorithms, DBMS, OOP, OS, Computer Networks  
+- **Tools**: Git, GitHub, VS Code, Postman  
+- **Practices**: Clean Code, Responsive Design, Version Control, Agile Basics  
 
+---
 
+## Experience
+
+### Web Development Intern  
+**Jan 2023 – Apr 2023**
+
+- Developed responsive and user-centric web applications  
+- Collaborated using Git and GitHub in a team-based environment  
+- Implemented deployment workflows and UI optimizations  
+
+### Full Stack MERN Projects  
+**Academic & Self-Driven**
+
+- Designed and developed end-to-end MERN applications  
+- Implemented secure authentication and RESTful APIs  
+- Integrated MongoDB for structured and scalable data storage  
+- Focused on performance, usability, and maintainable code  
+
+---
+
+## Key Projects
+
+- **Grocery Management System** – Full-stack app with authentication, product management, and cart functionality  
+- **Gym Management Platform** – Member tracking, admin dashboard, and database integration  
+- **Multiple MERN Mini-Projects** – CRUD apps, API integrations, and UI-focused projects  
+
+> Full project details available at: **https://vyankateshbairagi.netlify.app**
+
+---
+
+## Education
+
+### Bachelor of Engineering – Computer Engineering  
+**Sandip Institute of Technology & Research Centre, Nashik**  
+**2023 – 2026**  
+CGPA: **8.48**
+
+Relevant Coursework:  
+Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, AI
+
+### Diploma – Computer Engineering  
 **Amrutvahini Polytechnic, Sangamner**  
-_Diploma (Computer Engineering)_  
-📅 **2020 – 2023** | 📍 Sangamner, Maharashtra  
-🎯 Per % : **84.80**  
-🧠 **Relevant Coursework**: DSA, DBMS, Operating Systems, Computer Networks,OOP 
+**2020 – 2023**  
+Percentage: **84.80**
+
+Relevant Coursework:  
+DSA, DBMS, OOP, Operating Systems, Computer Networks
 
 ---
 
-## 💼 Experience
-
-**Web Development Internship**  
-📅 **Jan 2023 – Apr 2023**  
-- Built real-time web applications  
-- Worked on responsive UI and deployment  
-- Learned Git & collaborative development
-
-**MERN Stack Development Projects**  
-_Self-driven & College Projects_  
-- Built multiple full-stack projects including a grocery app & gym management site  
-- Integrated authentication, APIs & MongoDB database
-
----
-
-## 🚀 Languages and Tools:
+## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,python,cpp,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,cpp,python,mysql,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Analytics
 
-<p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vyankatesh014&theme=radical" alt="GitHub Streak" />
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vyankatesh014&cache_seconds=86400" />
 
 
----
+## Professional Philosophy
 
-## ✍️ Quote of the Day
-
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.”  
+— John Johnson
 
 ---
 
-### ❤️ Support
+## Open to Opportunities
 
-If you like my work, consider ⭐️ this repo or share feedback 😊
+I am actively seeking:
+- **Software Engineer / Full Stack Developer roles**
+- **Internships or entry-level opportunities**
+- **Open-source collaboration**
+
+If my profile aligns with your requirements, feel free to connect or reach out.
+
+⭐ If you find my work valuable, consider starring the repositories.
