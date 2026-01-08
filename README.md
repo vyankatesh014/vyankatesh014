@@ -91,15 +91,15 @@ DSA, DBMS, OOP, Operating Systems, Computer Networks
 
 ---
 
-## GitHub Analytics
+## GitHub Statistics
+ align="center"
+![](https://github-readme-stats.vercel.app/api?username=vyankatesh014&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vyankatesh014&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyankatesh014&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vyankatesh014&cache_seconds=86400" />
-
-
-## Professional Philosophy
-
-> “First, solve the problem. Then, write the code.”  
-— John Johnson
+---
+## Quote of Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
