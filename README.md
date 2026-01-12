@@ -82,16 +82,15 @@ DSA, DBMS, OOP, Operating Systems, Computer Networks
 ---
 
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=vyankatesh014&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vyankatesh014&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyankatesh014&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vyankateshbairagi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vyankateshbairagi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyankateshbairagi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ## Quote of Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 ## Open to Opportunities
 
 I am actively seeking:
@@ -102,3 +101,5 @@ I am actively seeking:
 If my profile aligns with your requirements, feel free to connect or reach out.
 
 ⭐ If you find my work valuable, consider starring the repositories.
+
+![Profile Views](https://komarev.com/ghpvc/?username=vyankateshbairagi&style=flat-square&color=58A6FF)
