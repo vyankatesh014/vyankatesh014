@@ -82,9 +82,11 @@ DSA, DBMS, OOP, Operating Systems, Computer Networks
 ---
 
 ## GitHub Statistics
+![](https://nirzak-streak-stats.vercel.app/?user=vyankateshbairagi&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api?username=vyankateshbairagi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vyankateshbairagi&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyankateshbairagi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 ## Quote of Day
